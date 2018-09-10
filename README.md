@@ -1,0 +1,2 @@
+# ArraysProject
+I AM THE GRADED CODING EXERCISE
